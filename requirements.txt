@@ -6,4 +6,5 @@ catboost
 seaborn
 xgboost
 dataclasses
+sklearn
 #-e .
