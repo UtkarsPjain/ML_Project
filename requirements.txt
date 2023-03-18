@@ -8,4 +8,5 @@ xgboost
 dataclasses
 sklearn
 dill
+flask
 #-e .
